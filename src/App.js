@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Temporary-app
+        Temporary-app (ab maine change krida)
         </p>
         <a
           className="App-link"
